@@ -1,5 +1,7 @@
 This is a basic cart application .
 
+Hosted URL - https://main--gilded-banoffee-ab5f65.netlify.app/
+
 Technologies used -
 
 1- React JS - Front End framework for building the UI
